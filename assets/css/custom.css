@@ -67,6 +67,24 @@ h4 {
     }
 }
 
+.resume-main .item-title, .resume-aside .item-title {
+    font-size: 17px;
+}
 .resume-main .item-meta, .resume-degree-time {
     font-size: 13px;
+}
+
+.resume-section-heading {
+    font-size: 19px;
+}
+.resume-main .item-meta a {
+    font-weight: bold;
+}
+
+.resume-intro img {
+    margin-right: 0px !important;
+}
+
+.resume-profile-image {
+    width: 110px;
 }
