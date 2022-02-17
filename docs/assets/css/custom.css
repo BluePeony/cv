@@ -53,6 +53,12 @@ h4 {
     font-size: 15px;
 }
 
+#career_objective {
+  font-style: italic;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
 .text-muted {
     color: #6e6e6e !important;
 }
@@ -71,7 +77,7 @@ h4 {
     font-size: 17px;
 }
 .resume-main .item-meta, .resume-degree-time {
-    font-size: 13px;
+    font-size: 14px;
 }
 
 .resume-section-heading {

@@ -53,6 +53,10 @@ body {
     font-size: 15px;
 }
 
+#signature {
+  width: 170px;
+}
+
 h4 {
     color: #313131;
 }
