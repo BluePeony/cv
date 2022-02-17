@@ -45,7 +45,7 @@ body {
     font-size: 15px;
 }
 
-.resume-degree-org, .resume-lang-list span {
+#edu-org, .resume-lang-list span {
   font-size: 14px;
 }
 h4 {
