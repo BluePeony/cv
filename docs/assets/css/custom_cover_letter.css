@@ -25,8 +25,8 @@
 }
 
 .px-lg-5 {
-  padding-left: 7rem !important;
-  padding-right: 7rem !important;
+  padding-left: 8rem !important;
+  padding-right: 8rem !important;
 }
 
 .p-5  {
@@ -62,7 +62,7 @@ h4 {
 }
 
 #sender div, #date div {
-  margin-left: 75%;
+  margin-left: 65%;
 }
 
 #subject {
