@@ -68,11 +68,11 @@ h4 {
 
 @media print {
     @page {
-      margin: 50cm;
+      margin: 10cm;
     }
 
     @page :first {
-      margin: 50cm;
+      margin: 10cm;
     }
 }
 
